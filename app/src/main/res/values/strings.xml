@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oksie</string>
+    <string name="loginorsign">Войдите или зарегистрируйтесь</string>
+    <string name="nameuser">Имя пользователя</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Корзина</string>
+    <string name="title_notifications">Профиль</string>
+    <string name="title_history">История</string>
+</resources>
+
